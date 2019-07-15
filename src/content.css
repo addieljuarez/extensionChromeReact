@@ -1,28 +1,9 @@
-/*
- * File: /Users/addielJuarez/Documents/developer/react/extension-chrome-react/src/content.css
- * Project: /Users/addielJuarez/Documents/developer/react/extension-chrome-react
- * Created Date: Sunday, July 14th 2019, 6:46:58 pm
- * Author: Addiel Juarez
- * -----
- * Last Modified: Sun Jul 14 2019
- * Modified By: Addiel Juarez
- * -----
- * Copyright (c) 2019 Addiel
- * <<licensetext>>
- * -----
- * HISTORY:
- * Date      	By	Comments
- * ----------	---	----------------------------------------------------------
- */
-
-
- .my-extension{
+.my-extension{
     padding: 20px;
+    width: 200px;
+    height: 500px;
 }
 
 .my-extension h1{
     color: #000;
 }
-
-
-
