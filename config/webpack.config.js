@@ -1,3 +1,19 @@
+/**
+ * File: /Users/addielJuarez/Documents/developer/react/extension-chrome-react/config/webpack.config.js
+ * Project: /Users/addielJuarez/Documents/developer/react/extension-chrome-react
+ * Created Date: Sunday, July 14th 2019, 6:50:32 pm
+ * Author: Addiel Juarez
+ * -----
+ * Last Modified: Mon Jul 15 2019
+ * Modified By: Addiel Juarez
+ * -----
+ * Copyright (c) 2019 Addiel
+ * ------------------------------------
+ */
+
+
+
+
 'use strict';
 
 const fs = require('fs');

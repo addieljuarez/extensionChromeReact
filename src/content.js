@@ -1,3 +1,19 @@
+/*
+ * File: /Users/addielJuarez/Documents/developer/react/extension-chrome-react/src/content.js
+ * Project: /Users/addielJuarez/Documents/developer/react/extension-chrome-react
+ * Created Date: Sunday, July 14th 2019, 6:45:22 pm
+ * Author: Addiel Juarez
+ * -----
+ * Last Modified: Mon Jul 15 2019
+ * Modified By: Addiel Juarez
+ * -----
+ * Copyright (c) 2019 Addiel
+ * <<licensetext>>
+ * -----
+ * HISTORY:
+ * Date      	By	Comments
+ * ----------	---	----------------------------------------------------------
+ */
 
 
 import React from 'react';
